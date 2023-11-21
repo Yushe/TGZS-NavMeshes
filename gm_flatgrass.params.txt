@@ -1,0 +1,4 @@
+ZMW=0
+ZPM=1
+ZPPM=100
+ZPW=0
