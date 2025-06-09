@@ -578,7 +578,7 @@
 368:AimTo=Straight,Jump=Always,See=Disabled,X=30.2,Y=-732.7,Z=128
 368-283:
 369:AimTo=Straight,AreaXMax=529.79998779297,AreaXMin=510.29998779297,AreaYMax=-600.5,AreaYMin=-663.40002441406,JumpTo=Always,See=Disabled,X=520.7,Y=-632.6,Z=160
-369-14:
+369-14:Direction=Forward
 369-248:
 38:AreaXMax=78.9,AreaXMin=-112,AreaYMax=-24,AreaYMin=-177.7,X=-38.2,Y=-100.8,Z=0
 38-192:
