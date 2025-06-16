@@ -268,7 +268,8 @@
 245:AimTo=Straight,AreaXMax=88,AreaXMin=24,AreaYMax=-498.10000610352,AreaYMin=-554.4,See=Disabled,X=56,Y=-526.3,Z=128
 245-168:Direction=Forward
 246:AimTo=Straight,AreaXMax=256,AreaXMin=227.6,AreaYMax=-704,AreaYMin=-768,Jump=Always,See=Disabled,X=241.8,Y=-736,Z=128
-248:AreaXMax=512,AreaXMin=256,AreaYMax=-496,AreaYMin=-704,See=Disabled,X=384,Y=-600,Z=128
+248:AreaXMax=472.4,AreaXMin=256,AreaYMax=-496,AreaYMin=-704,See=Disabled,X=364.2,Y=-600,Z=128
+248-370:
 249:AreaXMax=512,AreaXMin=256,AreaYMax=-704,AreaYMin=-768,X=384,Y=-736,Z=128
 249-246:
 249-248:
@@ -579,7 +580,12 @@
 368-283:
 369:AimTo=Straight,AreaXMax=529.79998779297,AreaXMin=510.29998779297,AreaYMax=-600.5,AreaYMin=-663.40002441406,JumpTo=Always,See=Disabled,X=520.7,Y=-632.6,Z=160
 369-14:Direction=Forward
-369-248:
+370:AreaXMax=512,AreaXMin=472.4,AreaYMax=-581.5,AreaYMin=-704,Jump=Always,See=Disabled,X=492.2,Y=-642.7,Z=128
+370-249:
+370-369:
+370-371:
+371:AreaXMax=512,AreaXMin=472.4,AreaYMax=-496,AreaYMin=-581.5,See=Disabled,X=492.2,Y=-538.7,Z=128
+371-248:
 38:AreaXMax=78.9,AreaXMin=-112,AreaYMax=-24,AreaYMin=-177.7,X=-38.2,Y=-100.8,Z=0
 38-192:
 39:AreaXMax=136,AreaXMin=81.900001525879,AreaYMax=-27.200000762939,AreaYMin=-252.30000305176,X=109,Y=-118.2,Z=0
