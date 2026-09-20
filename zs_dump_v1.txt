@@ -1814,7 +1814,6 @@
 880-605:
 880-613:
 882:AreaXMax=818.7,AreaXMin=775,AreaYMax=-350.5,AreaYMin=-393.3,Jump=Always,X=796.9,Y=-371.9,Z=-247.6
-882-517:Direction=Forward
 882-883:
 883:AreaXMax=875,AreaXMin=818.7,AreaYMax=-350.5,AreaYMin=-393.3,X=846.9,Y=-371.9,Z=-247.6
 883-60:
